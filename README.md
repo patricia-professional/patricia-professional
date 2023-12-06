@@ -1,6 +1,6 @@
 ### Olá sou Patricia Silva, seja bem vindo(a)!!!  😄😄😄 
 
-<img align="right" width="305" height="312" src="https://p7.hiclipart.com/preview/364/466/408/github-website-development-software-developer-programmer-github.jpg">
+<img align="right" width="305" height="312" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1699920000&semt=ais">
 <br>
 <p>&emsp;<strong>Sou tecnóloga em análise e desenvolvimento de sistemas iniciando minha carreira na área.</strong></p>
 <br>
